@@ -3,7 +3,7 @@
 ![圖一](https://github.com/HalladayChen/seminar_20240313/blob/main/input%20with%20gaussian%20white%20noise%20code.png)<br><br>
 ## 2. 第二式實作 matlab code
 ![圖二](https://github.com/HalladayChen/seminar_20240313/blob/main/equation2.png)<br><br>
-其中 x(n + 1) = sin(2 * pi * k / M * n) 註解應改成 % 原始輸入為sin波
+
 ## 3. 雜訊對輸出的影響
 ### a. SNR = 10
 ![圖三](https://github.com/HalladayChen/seminar_20240313/blob/main/SNR%20%3D%2010.png)<br><br>
